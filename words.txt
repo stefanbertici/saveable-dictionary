@@ -1,0 +1,4 @@
+apina:monkey
+alla oleva:below
+olut:beer
+test:yahoo
